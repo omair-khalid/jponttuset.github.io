@@ -1,4 +1,4 @@
-title:            Omair Khalid
+title:            OK
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              omair-khalid.github.io
@@ -8,11 +8,11 @@ description:      Welcome to my site.
 
 # Owner/author information
 owner:
-  name:             Omair Khalid
+  name:           Omair Khalid
   avatar:         jordi.png
   bio:            AI | ROBOTICS | DEEP LEARNING
   email:          omair.khalid92@hotmail.com
-  mobile:         +447719699981
+  phone:         +447719699981
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   linkedin: omair-khalid-ok
   github: omair-khalid
