@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: What am I up to?
+title: "WEBSITE UNDER CONSTRUCTION - RETURN FOR AWESOMENESS" 
 description: "Here we are"
 tags: [Jekyll, theme, responsive, blog, template]
 #image:
