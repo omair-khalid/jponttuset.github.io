@@ -3,8 +3,8 @@ layout: home2
 title: What am I up to?
 description: "Here we are"
 tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: trees.jpg
+#image:
+  #feature: trees.jpg
 ---
 
 <br />
