@@ -16,7 +16,7 @@ I am a post-graduate student of Erasmus Mundus Masters of Computer Vision and Ro
   
   
   <blockquote>
-  <p>To download my Curriculum Vitae, click <a href="https://drive.google.com/file/d/1wnIScTH0v37PL6gqIs6J9OlVRk0PMgXm/view?usp=sharing" target="_blank"><strong>here<strong>/a></p>
+  <p>To download my Curriculum Vitae, click <a href="https://drive.google.com/file/d/1wnIScTH0v37PL6gqIs6J9OlVRk0PMgXm/view?usp=sharing" target="_blank"><strong>here<strong></a></p>
 </blockquote>
   
   
