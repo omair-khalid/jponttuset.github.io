@@ -10,7 +10,7 @@ description:      Welcome to my site.
 owner:
   name:           Omair Khalid
   avatar:         jordi.png
-  bio:            AI | ROBOTICS | DEEP LEARNING
+  bio:            ai | robotics | learning
   email:          omair.khalid92@hotmail.com
   phone:         +447719699981
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -27,9 +27,9 @@ owner:
 links:
   - title: Projects
     url: /projects/
-  - title: Blog
+  - title: Techy Blog
     url: /blog/
-#  - title: Curriculum Vitae
+  - title: Mental Ramblings
 #    url: /cv/
 #  - title: Publications
 #    url: /publications/
