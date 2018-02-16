@@ -26,6 +26,7 @@ owner:
 # For external links add external: true
 links:
   - title: Home
+     url: /index/
   - title: Projects
     url: /projects/
   - title: Techy Blog
