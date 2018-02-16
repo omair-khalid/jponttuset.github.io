@@ -24,6 +24,8 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Projects
+    url: /projects/
   - title: Blog
     url: /blog/
 #  - title: Curriculum Vitae
