@@ -26,8 +26,8 @@ owner:
 links:
   - title: Blog
     url: /blog/
-  - title: Curriculum
-    url: /cv/
+#  - title: Curriculum Vitae
+#    url: /cv/
 #  - title: Publications
 #    url: /publications/
 #  - title: Code
