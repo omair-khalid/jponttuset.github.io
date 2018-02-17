@@ -8,15 +8,16 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 <br />
-Nowadays, I am working on my Masters thesis titled "Machine Learning for Autonomous Vehicles", in which I am investigating the utility of complex-natured radar data for object detection in the context of autonomous vehicles. The Master Thesis is a part of a larger EPSRC/Jaguar Land Rover funded programme.
+<p>Nowadays, I am working on my Masters thesis titled "Machine Learning for Autonomous Vehicles", in which I am investigating the utility of complex-natured radar data for object detection in the context of autonomous vehicles. The Master Thesis is a part of a larger EPSRC/Jaguar Land Rover funded programme.</p>
+<p>Currently, I am looking for a full-time research opportunity as well. Feel free to contact me.</p>
 <br />
 
 <h1>Education</h1>
 <p>Erasmus Mundus Masters of Computer Vision and Robotics (<a href="https://www.vibot.org/" target="_blank">VIBOT</a>)</p>
 <p>Sept 2016 - June 2018</p>
 <p>Université de Bourgogne | Universitat de Girona | Heriot Watt University</p>  
-  
- <p>Bachelor of Electrical Engineering </p>
+<p></p>  
+<p><font size="6">Bachelor of Electrical Engineering </font></p>
 <p>Sept 2010 - June 2014</p>
 <p>National University of Sciences and Technology, Islamabad, Pakistan</p>   
   
