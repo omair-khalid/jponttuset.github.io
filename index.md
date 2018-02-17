@@ -14,6 +14,10 @@ tags: [Jekyll, theme, responsive, blog, template]
 <p><font size="2">Currently, I am looking for a full-time research opportunity as well. Feel free to contact me.</font></p>
 <br />
 
+  <blockquote>
+  <p>To download my Curriculum Vitae, click <a href="https://drive.google.com/file/d/1wnIScTH0v37PL6gqIs6J9OlVRk0PMgXm/view?usp=sharing" target="_blank">here</a > </p>    
+</blockquote>
+
 <h1>Education</h1>
 <p><b><font size="2.5">Erasmus Mundus Masters of Computer Vision and Robotics (<a href="https://www.vibot.org/" target="_blank">VIBOT</a>)</font></b></p>
 <p><font size="2">Sept 2016 - June 2018 (On it!)</font></p>
@@ -23,8 +27,4 @@ tags: [Jekyll, theme, responsive, blog, template]
 <p><font size="2">Sept 2010 - June 2014</font></p>
 <p><font size="2">National University of Sciences and Technology, Islamabad, Pakistan</font></p>   
   
-  <blockquote>
-  
-  <p>To download my Curriculum Vitae, click <a href="https://drive.google.com/file/d/1wnIScTH0v37PL6gqIs6J9OlVRk0PMgXm/view?usp=sharing" target="_blank">here</a > </p>
-    
-</blockquote>
+
