@@ -17,7 +17,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 <p>Sept 2016 - June 2018</p>
 <p>Université de Bourgogne | Universitat de Girona | Heriot Watt University</p>  
 <p></p>  
-<p><font size="6">Bachelor of Electrical Engineering </font></p>
+<p><font size="2">Bachelor of Electrical Engineering </font></p>
 <p>Sept 2010 - June 2014</p>
 <p>National University of Sciences and Technology, Islamabad, Pakistan</p>   
   
