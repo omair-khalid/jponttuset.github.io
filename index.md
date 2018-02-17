@@ -14,13 +14,13 @@ tags: [Jekyll, theme, responsive, blog, template]
 <br />
 
 <h1>Education</h1>
-<p>Erasmus Mundus Masters of Computer Vision and Robotics (<a href="https://www.vibot.org/" target="_blank">VIBOT</a>)</p>
-<p>Sept 2016 - June 2018</p>
-<p>Université de Bourgogne | Universitat de Girona | Heriot Watt University</p>  
+<p>font size="3">Erasmus Mundus Masters of Computer Vision and Robotics (<a href="https://www.vibot.org/" target="_blank">VIBOT</a>)</p>
+<p>font size="2">Sept 2016 - June 2018</p>
+<p>font size="2">Université de Bourgogne | Universitat de Girona | Heriot Watt University</p>  
 <p></p>  
-<p><font size="2">Bachelor of Electrical Engineering </font></p>
-<p>Sept 2010 - June 2014</p>
-<p>National University of Sciences and Technology, Islamabad, Pakistan</p>   
+<p><font size="3">Bachelor of Electrical Engineering </p>
+<p>font size="2">Sept 2010 - June 2014</p>
+<p>font size="2">National University of Sciences and Technology, Islamabad, Pakistan</font></p>   
   
   <blockquote>
   
