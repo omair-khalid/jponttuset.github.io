@@ -1,9 +1,9 @@
 ---
 layout: post-index
-permalink: /blog/
+permalink: /MentalRambling/
 title: A place for my non-tech stuff. Stuffing soon! 
 tagline: A List of Posts
-tags: [blog]
+tags: [MentalRambling]
 comments: false
 ---
 
