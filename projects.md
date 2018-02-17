@@ -1,7 +1,7 @@
 ---
 layout: post-index
 permalink: /projects/
-title: All Projects
+title: A place for my projects. Populating soon! 
 tagline: Projects
 tags: [projects]
 comments: false
