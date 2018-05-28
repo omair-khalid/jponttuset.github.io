@@ -7,4 +7,6 @@ tags: [blog]
 comments: false
 ---
 
-Coming soon! 
+<br />
+<p><font size="2">Coming soon!</font></p>
+<br />
