@@ -1,16 +1,8 @@
 ---
 layout: post-index
 permalink: /blog/
-title: A place for my blog posts. Writing soon! 
+title: Coming soon: Survival Mechanisms for a Masters Thesis 
 tagline: A List of Posts
 tags: [blog]
 comments: false
 ---
-
-The role of Complex Numbers in DL? 
-[Coming soon]
-
-
-What NOT to do in a Masters Thesis? 
-[Coming soon]
-
