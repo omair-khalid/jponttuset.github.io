@@ -1,7 +1,6 @@
 ---
 layout: post-index
-permalink: /Certifications/
-title: A place for my certifications. 
+permalink: /Certifications/ 
 tagline: Certifications
 tags: [certifications]
 comments: false
