@@ -2,7 +2,7 @@
 ---
 layout: post-index
 title: "Certifications" 
-description: "Because learning should not stop."
+#description: "Because learning should not stop."
 tags: [Jekyll, theme, responsive, blog, template]
 #image:
   #feature: trees.jpg
