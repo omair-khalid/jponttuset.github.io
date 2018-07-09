@@ -1,8 +1,10 @@
-
 ---
 layout: post-index
-title: "Certifications" 
-tags: [Jekyll, theme, responsive, blog, template]
+permalink: /Certifications/
+title: Online Courses 
+tagline: Certifications
+tags: [certifications]
+comments: false
 ---
 
 <br />
