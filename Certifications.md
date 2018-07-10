@@ -11,5 +11,5 @@ A list of some learning excursions.
 
   <blockquote>
   Neural Networks and Deep Learning | Coursera [
- <a href="https://www.coursera.org/account/accomplishments/verify/Z3NCN6XR3VKA" target="_blank">here</a > ]    
+ <a href="https://www.coursera.org/account/accomplishments/certificate/Z3NCN6XR3VKA">here</a > ]    
 </blockquote>
