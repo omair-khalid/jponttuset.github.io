@@ -7,9 +7,5 @@ tags: [certifications]
 comments: false
 ---
 
-
-
-  <blockquote>
   Neural Networks and Deep Learning by deeplearning.ai  |  Coursera [
  <a href="https://www.coursera.org/account/accomplishments/certificate/Z3NCN6XR3VKA">here</a > ]    
-</blockquote>
