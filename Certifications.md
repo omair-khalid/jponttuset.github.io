@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /Certifications/
-title: "Some certifications."
+title: "A list of some learning excursions"
 tagline: Certifications
 tags: [certifications]
 comments: false
 ---
 
-A list of some learning excursions.
+
 
   <blockquote>
   Neural Networks and Deep Learning by deeplearning.ai  |  Coursera [
