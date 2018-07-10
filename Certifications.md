@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: page
 permalink: /Certifications/
 title: "Some certifications."
 tagline: Certifications
