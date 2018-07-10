@@ -10,6 +10,6 @@ comments: false
 A list of some learning excursions.
 
   <blockquote>
-  Neural Networks and Deep Learning | Coursera [
+  Neural Networks and Deep Learning by deeplearning.ai  |  Coursera [
  <a href="https://www.coursera.org/account/accomplishments/certificate/Z3NCN6XR3VKA">here</a > ]    
 </blockquote>
