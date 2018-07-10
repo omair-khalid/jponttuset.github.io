@@ -7,6 +7,7 @@ tags: [certifications]
 comments: false
 ---
 
+A list of some learning excursions.
 
   <blockquote>
   <p>Neural Networks and Deep Learning | Coursera [
