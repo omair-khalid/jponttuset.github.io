@@ -1,6 +1,7 @@
 ---
 layout: post-index
-permalink: /Certifications/ 
+permalink: /Certifications/
+title: "Some certifications."
 tagline: Certifications
 tags: [certifications]
 comments: false
