@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Certifications/
-title: "A list of some learning excursions"
+title: "Some learning excursions"
 tagline: Certifications
 tags: [certifications]
 comments: false
