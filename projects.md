@@ -6,7 +6,7 @@ tagline: Projects
 tags: [projects]
 comments: false
 ---
-<h1>Target Tracking Algorithms - Comparison and Implementation</h1>
+<h2>Target Tracking Algorithms - Comparison and Implementation</h2>
 Explored and implemented in detail the solutions of (single/multiple) target-tracking problems under the Bayesian framework, and demonstrated the workings of Kalman filters, EKF, Gaussian Filter, PHD Filter, and Particle Filter through simulations.
 
 <h1>Magnetic Resonance Imaging and Calibration</h1>
