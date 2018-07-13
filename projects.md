@@ -23,7 +23,7 @@ An exploration into which features and machine learning algorithms suit the task
 <h2>Object Classification using Bag of Words approach</h2>
 This project followed Pascal Visual Object Classification challenge 2006; 10 classes were required to be classified using suitable feature extraction and Machine Learning technique of choice. The chosen implementation used Alexnet for feature extraction incorporating Bag-of-Words dimensionality reduction, and SVM as classifier to produce 92.10\% AUC on test data.
 
-<h2>textbf{Design and Implementation of Low Cost Automated 3D Scanning System</h2>
+<h2>Design and Implementation of Low Cost Automated 3D Scanning System</h2>
 Researched and implemented Surface Reconstruction Algorithms within the larger group project of designing a complete 3D scanning software involving Microsoft Kinect. Point Cloud Library(PCL) was leveraged for acquisition and processing of data; Code in C++. 
 
 <h2>Facial Recognition using Principal Component Analysis</h2>
