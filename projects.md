@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: page
 permalink: /projects/
 title: A place for my projects. 
 tagline: Projects
