@@ -8,7 +8,9 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 <br />
-<p><font size="2">I am a fresh graduate of Masters in Computer Vision and Robotics. I am interested in the fields of Computer Vision and Robotics with a focus on deep learning. Currently, I am looking for a full-time research opportunity as well. Feel free to contact me.</font></p>
+<p><font size="2">I am a fresh graduate of Masters in Computer Vision and Robotics, interested in the fields of Computer Vision and Robotics with a focus on deep learning. 
+  
+Currently, I am looking for a full-time research opportunity as well. Feel free to contact me.</font></p>
 <br />
 
   <blockquote>
