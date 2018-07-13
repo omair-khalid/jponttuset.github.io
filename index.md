@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: "What am I up to?" 
+title: "A brief introduction" 
 description: "Here we are"
 tags: [Jekyll, theme, responsive, blog, template]
 #image:
@@ -8,14 +8,11 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 <br />
-<p><font size="2">Nowadays, I am working on my Masters thesis titled "Machine Learning for Autonomous Vehicles", in which I am investigating the utility of using complex data and weights in a Deep Learning framework for the task of object detection in context of autonomous vehicles. The Master Thesis is a part of a larger EPSRC/Jaguar Land Rover funded programme.</font></p>
-<p></p>
-<p></p>
-<p><font size="2">Currently, I am looking for a full-time research opportunity as well. Feel free to contact me.</font></p>
+<p><font size="2">I am a fresh graduate of Masters in Computer Vision and Robotics. I am interested in the fields of Computer Vision and Robotics with a focus on deep learning. Currently, I am looking for a full-time research opportunity as well. Feel free to contact me.</font></p>
 <br />
 
   <blockquote>
-  <p>To download my Curriculum Vitae, click <a href="https://drive.google.com/file/d/1wnIScTH0v37PL6gqIs6J9OlVRk0PMgXm/view?usp=sharing" target="_blank">here</a > </p>    
+  <p>To download my Curriculum Vitae, click <a href="https://heriotwatt-my.sharepoint.com/:b:/g/personal/ok19_hw_ac_uk/EWJKt-RNpl9MmO4zUWuQh44BL0YA509_t6Bqxua8DAj3zw?e=5L9Z7j">here</a > </p>    
 </blockquote>
 
 <h1>Education</h1>
