@@ -19,7 +19,7 @@ Currently, I am looking for a full-time research opportunity as well. Feel free 
 
 <h1>Education</h1>
 <p><b><font size="2.5">Erasmus Mundus Masters of Computer Vision and Robotics (<a href="https://www.vibot.org/" target="_blank">VIBOT</a>)</font></b></p>
-<p><font size="2">Sept 2016 - June 2018 (On it!)</font></p>
+<p><font size="2">Sept 2016 - June 2018</font></p>
 <p><font size="2">Université de Bourgogne | Universitat de Girona | Heriot Watt University</font></p>  
 <p></p>  
 <p><font size="2.5"><b>Bachelor of Electrical Engineering</b></font></p>
