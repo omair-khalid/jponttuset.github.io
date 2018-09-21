@@ -25,7 +25,7 @@ comments: false
 <H2>Sinousidal work flow</H2>
 <p><font size="2">Work is important and so is rest, in probably equal measure. Well, some would disagree here but we shall let them. Rest rejuvenates your mind so that you can focus again the next time you go to work. And hear me out: when you are resting, LET yourself rest. LET yourself forego the thought of why your results suck or why you are a loser. Let go for a while. And then, when it is time to work, give it your undivided focus and energy. Be sinousidal, like life itself. </font></p>
 
-<p><font size="2">Cheerio. May you (at least) survive! </font></p>
+<H2>Cheerio. May you (at least) survive! </H2>
 
 
 
