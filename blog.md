@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: home2
 permalink: /blog/
 title: Survival Mechanisms for a Masters Thesis 
 tagline: A List of Posts
