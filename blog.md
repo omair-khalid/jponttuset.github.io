@@ -11,7 +11,7 @@ comments: false
 <p><font size="2">A masters thesis can be a daunting task. It is made to appear like a mammoth thanks to the views of all those around you. It kinda is. To get from A to B, you might have no clue how it could ever be done. The horror of uncertainty looms over you consistently. Screams.
 <br/>
 <br/>
-Here are some tips, birthed from my own experience, some of which I followed and the rest I wish I had. So, this is an advice to myself for what to do when faced with a similar ordeal and the reader should, if he/she would, take it with a grain of salt. </font></p> 
+Here are some tips, birthed from my own experience, some of which I followed and the rest I wish I had. So, this post is an incomplete list of guiding principles telling me what to do when faced with a similar ordeal and the reader should, if he/she would, take everything with a grain of salt. </font></p> 
 	
 <H2>Know what you are going into</H2>
 <p><font size="2">No matter how little you think your knowledge about your field is, never shy away from digging deeper and making the best informed decision in the given time. Explore all sources of information before making a decision while keeping the end in mind.</font></p>
