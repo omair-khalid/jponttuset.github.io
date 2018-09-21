@@ -23,7 +23,9 @@ You no expert. You need a little nudge here and there, REGULARLY, to keep toward
 One of the most important tips. You cannot make thesis the sole source of happiness (and despair) in your life. Why? The thesis will go bad again and again and again, and it will make you anxious, stressed again and again and again. You need to have a solid amount of positivity in you to push against these negative blows. That's why you need to have multiple sources of happiness so that your average positivity levels remain sound. If you don't do this, you will stress out so much that you wouldn't be able to even work on your thesis, and you'll fall into an abyss, with no recovery. Plus, having other things like social life/hobbies/physical fitness still in your life, in temperance of course, will serve to de-stress you and enable you to focus and be more productive at your work. Moreover, God forbid if your thesis goes to trash, you would still have other things going on in your life that you can probably be proud of.
 
 <H2>Sinousidal work flow</H2>
-Work is important and so is rest, in probably equal measure. Well, some would disagree here but we shall let them. Rest rejuvenates your mind so that you can focus again the next time you go to work. And hear me out: when you are resting, LET yourself rest. LET yourself forego the thought of why your results suck or why you are a loser. Let go for a while. And then, when it is time to work, give it your undivided focus and energy. Be sinousidal, like life itself. Cheerio. May you (at least) survive! 
+Work is important and so is rest, in probably equal measure. Well, some would disagree here but we shall let them. Rest rejuvenates your mind so that you can focus again the next time you go to work. And hear me out: when you are resting, LET yourself rest. LET yourself forego the thought of why your results suck or why you are a loser. Let go for a while. And then, when it is time to work, give it your undivided focus and energy. Be sinousidal, like life itself. 
+
+Cheerio. May you (at least) survive! 
 
 </font></p>
 
