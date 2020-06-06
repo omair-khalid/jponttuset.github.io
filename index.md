@@ -8,9 +8,9 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 <br />
-<p><font size="2">I am a fresh graduate of Masters in Computer Vision and Robotics, interested in the fields of Computer Vision and Robotics with a focus on deep learning. 
+<p><font size="2">Currently orking on robot navigation within the social context.
   
-Currently, I am looking for a full-time research opportunity as well. Feel free to contact me.</font></p>
+Looking for a research opportunity as well. </font></p>
 <br />
 
   <blockquote>
