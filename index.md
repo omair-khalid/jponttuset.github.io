@@ -8,7 +8,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 <br />
-<p><font size="2">Currently orking on robot navigation within the social context.
+<p><font size="2">Currently working on robot navigation within the social context.
   
 Looking for a research opportunity as well. </font></p>
 <br />
